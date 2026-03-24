@@ -5,6 +5,11 @@ This project presents an interactive Tableau dashboard that analyzes customer be
 
 ---
 
+## 📷 Dashboard Preview
+![Dashboard](dashboard.jpeg)
+
+---
+
 ## 🎯 Key Features
 - Total Customers
 - Average Profit per Order
