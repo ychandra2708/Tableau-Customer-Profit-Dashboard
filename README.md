@@ -25,5 +25,5 @@ This project presents an interactive Tableau dashboard that analyzes customer be
 
 ---
 
-## 👩‍💻 Author
+## Author
 Chandra Sekhar
